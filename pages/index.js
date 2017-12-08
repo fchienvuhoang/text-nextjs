@@ -1,0 +1,1 @@
+export default () => <div>Welcome to next.js 12!</div>
